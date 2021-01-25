@@ -1,0 +1,1 @@
+<liste initarticles="{{$articles}}"></liste>

@@ -1,0 +1,1 @@
+<countertwo :initcountertwo="{{$item->qty}}" :initid="{{$item->id}}" :initprixproduit="{{$item->price}}"></countertwo>

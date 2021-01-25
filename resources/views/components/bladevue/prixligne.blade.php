@@ -1,0 +1,1 @@
+<prixligne :initprixligne="{{$item->subtotal}}" :initprixproduit="{{$item->price}}" :initid="{{$item->id}}"></prixligne>
