@@ -1,8 +1,8 @@
 /node_modules
 /public/hot
-/public/storage
+/public/storagegit checkout master
 /storage/*.key
-/vendor
+/vendorgit add
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
